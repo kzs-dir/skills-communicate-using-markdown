@@ -2,5 +2,4 @@
 ## How are you?
 ### Fine thank you 
 
-
-Tried the markdown
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
