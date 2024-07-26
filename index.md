@@ -12,3 +12,6 @@ l1 = [1,3,4,5]
 print(np.array(l1))
 #This is a comment
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
